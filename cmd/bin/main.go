@@ -1,8 +1,8 @@
 package main
 
 import (
-	pkgCache "cache/pkg/cache"
 	"fmt"
+	pkgCache "github.com/witnsby/cache/pkg/cache"
 )
 
 func main() {
